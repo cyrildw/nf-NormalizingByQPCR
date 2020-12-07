@@ -1,0 +1,3 @@
+LibName;BamFile;BwFile;QpcrFile;SampleName;CtrlName
+Dummy_WT;Dummy_WT.BOWTIE.saccer3.pe.sorted.bam;Dummy_WT.BOWTIE.saccer3.bin1.bamCoverage.bw;Dummy_WT.qPCR.tsv;WT;
+Dummy_MUT;Dummy_MUT.BOMUTIE.saccer3.pe.sorted.bam;Dummy_MUT.BOMUTIE.saccer3.bin1.bamCoverage.bw;Dummy_MUT.qPCR.tsv;MUT;WT
